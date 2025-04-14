@@ -1,5 +1,5 @@
 import vector from "../assets/Vector.png";
-import group from "../assets/group.png";
+import group from "../assets/Group.png";
 import chat from "../assets/iconoir_chat-remove.png";
 import eye from "../assets/iconoir_eye-empty.png";
 
