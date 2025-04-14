@@ -1,5 +1,5 @@
 import "./App.css";
-import MadeLi from "./components/li-map.jsx";
+import MadeLi from "./components/limap.jsx";
 
 function App() {
   return (
